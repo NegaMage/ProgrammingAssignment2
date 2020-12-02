@@ -52,5 +52,5 @@ cacheSolve <- function(x, ...) {
   inv
 }
 
-# And because the rest of the assignment was seemingly bland, here's a 
+# And because the rest of the assignment was kinda bland, here's a 
 # (=◕ᆽ◕ฺ=)
